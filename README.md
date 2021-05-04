@@ -39,7 +39,7 @@ El contenido compartido es el siguiente:
 
 #### Notebook 2.2: EDeep Q-Learning
 
-* Notebook: [2_02_Deep Q-Learning.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/2_02_Deep Q-Learning.ipynb)
+* Notebook: [2_02_Deep_Q-Learning.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/2_02_Deep_Q-Learning.ipynb)
 
 1. Algoritmo del Deep Q-Learning
 2. Implementación y Ejemplo del Deep Q-Learning
