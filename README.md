@@ -1,7 +1,7 @@
 # Reinforcement Learning (Aprendizaje por Refuerzo), con Python
 
 * Autor: Ricardo Moya García, PhD
-* Fecha última actualización: 10-05-2020
+* Fecha última actualización: 04-05-2021
 * ![python versions](https://img.shields.io/badge/python-3.6%2C%203.7-blue.svg)
 
 
@@ -25,9 +25,9 @@ El contenido compartido es el siguiente:
 7. Algoritmos: Q-Learning y SARSA Learning
 
 
-#### Notebook 2: Ejemplo de Algoritmos de Aprendizaje por Refuerzo: Q-Learning(SARS) & SARSA Learning
+#### Notebook 2.1: Ejemplo: Algoritmos de Aprendizaje por Refuerzo: Q-Learning y SARSA
 
-* Notebook: [2_Ejemplo_Algoritmos_Aprendizaje_Por_Refuerzo.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/2_Ejemplo_Algoritmos_Aprendizaje_Por_Refuerzo.ipynb)
+* Notebook: [2_01_Ejemplo_Algoritmos_Aprendizaje_Por_Refuerzo_Q_LEARNING_y_SARSA.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/2_01_Ejemplo_Algoritmos_Aprendizaje_Por_Refuerzo_Q_LEARNING_y_SARSA.ipynb)
 
 1. Definición del entorno
 2. Implementación de un algoritmo de toma aleatoria de acciones
@@ -35,6 +35,14 @@ El contenido compartido es el siguiente:
 4. Q-Learner: Implementación y Ejecución
 5. SARSA-Learner: Implementación y Ejecución
 6. Estrategias a corto y largo plazo
+
+
+#### Notebook 2.2: EDeep Q-Learning
+
+* Notebook: [2_02_Deep Q-Learning.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/2_02_Deep Q-Learning.ipynb)
+
+1. Algoritmo del Deep Q-Learning
+2. Implementación y Ejemplo del Deep Q-Learning
 
 
 #### Notebook 3: Multi-Armed Bandit (MAB): Ejemplo
