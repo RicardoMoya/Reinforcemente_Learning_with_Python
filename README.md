@@ -1,7 +1,7 @@
 # Reinforcement Learning (Aprendizaje por Refuerzo), con Python
 
 * Autor: Ricardo Moya García, PhD
-* Fecha última actualización: 04-05-2021
+* Fecha última actualización: 22-04-2022
 * ![python versions](https://img.shields.io/badge/python-3.6%2C%203.7-blue.svg)
 
 
@@ -50,6 +50,12 @@ El contenido compartido es el siguiente:
 * Notebook: [3_Multi-Armed_Bandit.ipynb](https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/3_Multi-Armed_Bandit.ipynb)
 
 
+#### Notebook 4: Resolución de juego GYM (Open AI)
+
+* Notebook: [4_01_RL_Lunar_Lander_GYM_Stable_BaseLine.ipynb(https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/4_01_RL_Lunar_Lander_GYM_Stable_BaseLine.ipynb)
+* Notebook: [4_02_RL_SpaceInvaders_GYM_KerasRL.ipynb(https://github.com/RicardoMoya/Reinforcemente_Learning_with_Python/blob/master/4_02_RL_SpaceInvaders_GYM_KerasRL.ipynb)
+
+
 
 <hr>
 
@@ -69,50 +75,13 @@ A continuación se muestran los pasos a seguir para crear el entorno virtual con
 
 * Pasos para la creación de un Virtualenv con conda e instalación de las librerías necesarias
 
-1.- Creación del entorno virtual "*Python36_RL*" con un python 3.6
+1.- Creación del entorno virtual "*Python37_RL*" con un python 3.7
 ```
->> conda create -n Python36_RL python=3.6 anaconda
+>> conda create -n Python36_RL python=3.7 anaconda
 ```
 
 2.- Activar el entorno virtual
 
 ```
->> conda activate Python36_RL
-```
-
-3.- IMPORTANTE: Se debe de instalar swig con Conda con el siguiente comando:
-
-```
->> conda install swig
-```
-
-4.- Instalar librerías especificadas en el fichero requirements.txt:
-
-```
->> pip3 install -r requirements.txt
-```
-
-* En caso de tener algún problema con la instalación de alguna de las librerías, proceder a instalar la librería 
-  manualmente de la siguiente manera:
-  
-```
->> pip install nombre_libreria==VERSION
-```
-  
-
-#### Bonus Track Anaconda
-
-A continuación se muestran algunas acciones extra:
-
-1.- Desinstalar librerías con conda y pip respectivamente:
-```
->> pip uninstall nombre_libreria
-```
-2.- Desactivar el entorno virtual (previamente tiene que estar activado)
-```
->> conda deactivate
-```
-3.- Eliminar entorno virtual (llamado "Python36_RL")
-```
->> conda remove -n Python36_RL -all
+>> conda activate Python37_RL
 ```
